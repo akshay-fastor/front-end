@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdellace=self.webpackChunkdellace||[]).push([[6009],{16009:function(e,l,a){a.r(l);var n=a(1413),r=a(45987),c=a(58185),s=a(80184),t=["Children","label","name"];l.default=function(e){var l=e.Children,a=e.label,u=(e.name,(0,r.Z)(e,t));return(0,s.jsx)(c.Z.Item,{className:"mb-0",label:a,children:(0,s.jsx)("textarea",(0,n.Z)((0,n.Z)({},u),{},{children:l}))})}}}]);
+//# sourceMappingURL=6009.b6c77d05.chunk.js.map

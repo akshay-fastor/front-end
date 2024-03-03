@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdellace=self.webpackChunkdellace||[]).push([[4994],{4994:function(a,e,n){n.r(e);var l=n(1413),r=n(45987),c=n(43360),s=n(80184),t=["children","extraClassName","loading"];e.default=function(a){var e=a.children,n=a.extraClassName,d=a.loading,i=(0,r.Z)(a,t);return(0,s.jsx)(c.Z,(0,l.Z)((0,l.Z)({disabled:d,className:"btn btn-primary btn-gradiant ".concat(n)},i),{},{children:e}))}}}]);
+//# sourceMappingURL=4994.0f725a60.chunk.js.map

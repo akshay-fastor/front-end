@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdellace=self.webpackChunkdellace||[]).push([[2503],{82503:function(n,e,t){t.r(e),t.d(e,{default:function(){return s}});t(72791);var l=t(11087),c=t(80184);function s(){return(0,c.jsx)(c.Fragment,{children:(0,c.jsxs)(l.rU,{to:"#",className:"btn btn-white btn-outline-light",children:[(0,c.jsx)("em",{className:"icon ni ni-download-cloud"}),(0,c.jsx)("span",{children:"Export CSV"})]})})}}}]);
+//# sourceMappingURL=2503.d11be4c9.chunk.js.map

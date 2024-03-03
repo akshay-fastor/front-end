@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdellace=self.webpackChunkdellace||[]).push([[9043],{89043:function(n,e,t){t.r(e);var l=t(1413),a=t(45987),c=(t(72791),t(80184)),r=["btnText"];e.default=function(n){var e=n.btnText,t=(0,a.Z)(n,r);return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)("button",(0,l.Z)((0,l.Z)({className:"btn btn-lg btn-outline-primary cancelButton mr-2 ml-2 my-3"},t),{},{children:(0,c.jsx)("span",{children:e})}))})}}}]);
+//# sourceMappingURL=9043.46947ed2.chunk.js.map

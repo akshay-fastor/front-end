@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdellace=self.webpackChunkdellace||[]).push([[4766],{74766:function(s,e,l){l.r(e);l(72791);var a=l(11087),o=l(80184);e.default=function(){return(0,o.jsx)(o.Fragment,{children:(0,o.jsx)("div",{className:"brand-logo pb-4 text-center",children:(0,o.jsx)(a.rU,{to:"/",className:"logo-link",children:(0,o.jsx)("img",{className:"logo-dark logo-img logo-img-xl",src:"../assets/images/admin/logo-light.svg",srcSet:"../assets/images/admin/logo-light.svg",alt:"logo"})})})})}}}]);
+//# sourceMappingURL=4766.20b1c4c4.chunk.js.map
